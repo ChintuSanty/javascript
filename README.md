@@ -3,9 +3,7 @@
 This project contains all the example for learning and understanding the concepts of javascript
 ### Table of Contents
 
-| No. | Questions                                                                                                                                                         |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [What are the possible ways to create objects in JavaScript](#Q1)                                         |
+ [What are the possible ways to create objects in JavaScript](#Q1)                                         
 
 #Q2
 #Q3
